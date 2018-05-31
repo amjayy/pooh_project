@@ -1,0 +1,38 @@
+element.style{
+    position: absolute;
+    right: 50%;
+    top: 450px;
+}
+  a {
+      color: orange;
+  }
+  h1{
+    color:Yellow;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 100px;
+   }
+ 
+  #buttons li{
+    display:block;
+    list-style: none;
+    text-align: center;
+    background-color: red;
+    margin-right: 30px;
+    width: 150px;
+    line-height: 60px;
+    text-decoration: none;
+    margin-bottom: 10px;
+
+}
+#buttons li a{
+    text-decoration: none;
+    color:yellow;
+    display:block;
+    text-align: center;
+}
+buttons li a{
+    text-decoration: none;
+    color: mediumslateblue;
+    background-color: cornflowerblue;
+}
